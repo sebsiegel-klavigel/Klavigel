@@ -1,0 +1,1969 @@
+[
+  {
+    "id": "haenschen_klein",
+    "title": "Hänschen Klein",
+    "emoji": "🐣",
+    "difficulty": "easy",
+    "startOctave": 4,
+    "endOctave": 4,
+    "notes": [
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Häns-"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "chen"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "klein,"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "ging"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "al-"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "lein,"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "in"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "die"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "wei-"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "te"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Welt"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "hin-"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "ein."
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Stock"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "und"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Hut"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "steht"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "ihm"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "gut,"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "ist"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "so"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "wohl-"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "ge-"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "mut."
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Ju-"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "chei-"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "sa!"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "🎵"
+      }
+    ]
+  },
+  {
+    "id": "alle_entchen",
+    "title": "Alle meine Entchen",
+    "emoji": "🦆",
+    "difficulty": "easy",
+    "startOctave": 4,
+    "endOctave": 4,
+    "notes": [
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Al-"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "le"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "mei-"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "ne"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "Ent-"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "chen"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "schwim-"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "men"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "auf"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "dem"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "See,"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "schwim-"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "men"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "auf"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "dem"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "See,"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Köpf-"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "chen"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "ins"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Was-"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "ser,"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 800
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Schwänz-"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "chen"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "in"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "die"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "Höh."
+      }
+    ]
+  },
+  {
+    "id": "kuckuck",
+    "title": "Kuckuck, Kuckuck",
+    "emoji": "🐦",
+    "difficulty": "easy",
+    "startOctave": 4,
+    "endOctave": 4,
+    "notes": [
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 600,
+        "syllable": "Kuk-"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 600,
+        "syllable": "kuck,"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 600,
+        "syllable": "Kuk-"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 600,
+        "syllable": "kuck,"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "ruft's"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "aus"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "dem"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "Wald."
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Las-"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "set"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "uns"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "sin-"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "gen,"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "tan-"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "zen"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "und"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 600,
+        "syllable": "sprin-"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 600,
+        "syllable": "gen!"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 600,
+        "syllable": "Kuk-"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "kuck!"
+      }
+    ]
+  },
+  {
+    "id": "bruder_jakob",
+    "title": "Bruder Jakob",
+    "emoji": "🔔",
+    "difficulty": "easy",
+    "startOctave": 4,
+    "endOctave": 4,
+    "notes": [
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Bru-"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "der"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Ja-"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "kob,"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Bru-"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "der"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Ja-"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "kob,"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "schläfst"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "du"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "noch?"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "schläfst"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "du"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "noch?"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 300,
+        "syllable": "Hörst"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 300,
+        "syllable": "du"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 300,
+        "syllable": "nicht"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 300,
+        "syllable": "die"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Glo-"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "cken?"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 300,
+        "syllable": "Hörst"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 300,
+        "syllable": "du"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 300,
+        "syllable": "nicht"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 300,
+        "syllable": "die"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Glo-"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "cken?"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Ding"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "dong"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "ding!"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Ding"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "dong"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "ding!"
+      }
+    ]
+  },
+  {
+    "id": "fuchs",
+    "title": "Fuchs du hast die Gans gestohlen",
+    "emoji": "🦊",
+    "difficulty": "easy",
+    "startOctave": 4,
+    "endOctave": 4,
+    "notes": [
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Fuchs,"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "du"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "hast"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "die"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Gans"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "ge-"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "stoh-"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "len,"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "gib"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "sie"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "wie-"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "der"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "her!"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Sonst"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "wird"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "dich"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "der"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Jä-"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "ger"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "ho-"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "len"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "mit"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "dem"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Schieß-"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "ge-"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "wehr!"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "🎵"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "🎵"
+      }
+    ]
+  },
+  {
+    "id": "summ_summ",
+    "title": "Summ summ summ",
+    "emoji": "🐝",
+    "difficulty": "easy",
+    "startOctave": 4,
+    "endOctave": 4,
+    "notes": [
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Summ,"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "summ,"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "summ,"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Bien-"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "chen"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "summ"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "he-"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "rum!"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Su-"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "che"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "dir"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "Blu-"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "men"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "für"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "den"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Kor-"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "b,"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Ho-"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "le"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "dir"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "auch"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Was-"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "ser"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "drauf,"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "summ,"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "summ!"
+      }
+    ]
+  },
+  {
+    "id": "fuer_elise_simple",
+    "title": "Für Elise (vereinfacht)",
+    "emoji": "🎹",
+    "difficulty": "hard",
+    "startOctave": 4,
+    "endOctave": 5,
+    "notes": [
+      {
+        "note": "E",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "E",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "E",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 600
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 200
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 600
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 200
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 600
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 200
+      },
+      {
+        "note": "E",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "E",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "E",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 800
+      }
+    ]
+  },
+  {
+    "id": "flohwalzer",
+    "title": "Flohwalzer",
+    "emoji": "🐾",
+    "difficulty": "hard",
+    "startOctave": 4,
+    "endOctave": 5,
+    "notes": [
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 600
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 200
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 200
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 200
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 600
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 200
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 200
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 200
+      },
+      {
+        "note": "E",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 600
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 200
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 200
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 200
+      }
+    ]
+  },
+  {
+    "id": "can_can",
+    "title": "Can Can",
+    "emoji": "💃",
+    "difficulty": "hard",
+    "startOctave": 4,
+    "endOctave": 5,
+    "notes": [
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 100
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 400
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 400
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 200
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 200
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 100
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 400
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 400
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 800
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 100
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 400
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 400
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 200
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 200
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 300
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 100
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 400
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 400
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 800
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 100
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 100
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 100
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 300
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 100
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 400
+      },
+      {
+        "note": "E",
+        "octave": 5,
+        "duration": 400
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 400
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 400
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 400
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 400
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 800
+      }
+    ]
+  },
+  {
+    "id": "tatzen_patrouille",
+    "title": "Tatzen Patrouille",
+    "emoji": "🐾",
+    "difficulty": "medium",
+    "startOctave": 4,
+    "endOctave": 5,
+    "notes": [
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "PAW"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "pa-"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "trol"
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "PAW"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "pa-"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "trol"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "we'll"
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "be"
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 400,
+        "syllable": "there"
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 400,
+        "syllable": "on"
+      },
+      {
+        "note": "E",
+        "octave": 5,
+        "duration": 400,
+        "syllable": "the"
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 800,
+        "syllable": "dou-"
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 400,
+        "syllable": "ble"
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 400,
+        "syllable": "🎵"
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "when-"
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "ev-"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "er"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "there's"
+      },
+      {
+        "note": "F#",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "a"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "prob-"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "lem,"
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "🎵"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "a-"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "round"
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Ad-"
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 400,
+        "syllable": "ven-"
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 400,
+        "syllable": "ture"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "Bay."
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "🎵"
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Ry-"
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "der"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "and"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "his"
+      },
+      {
+        "note": "F#",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "team"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "of"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "pups"
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "will"
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 400,
+        "syllable": "come"
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 400,
+        "syllable": "and"
+      },
+      {
+        "note": "E",
+        "octave": 5,
+        "duration": 400,
+        "syllable": "save"
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 400,
+        "syllable": "the"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "day!"
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 600,
+        "syllable": "Mar-"
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 600,
+        "syllable": "shall,"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 300,
+        "syllable": "Rub-"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 300,
+        "syllable": "ble,"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 300,
+        "syllable": "Chase,"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 300,
+        "syllable": "Rock-"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 300,
+        "syllable": "y,"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 300,
+        "syllable": "Zu-"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 300,
+        "syllable": "ma,"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 300,
+        "syllable": "Skye"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 300,
+        "syllable": "yeah"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 300,
+        "syllable": "they're"
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "on"
+      },
+      {
+        "note": "C",
+        "octave": 5,
+        "duration": 400,
+        "syllable": "their"
+      },
+      {
+        "note": "D",
+        "octave": 5,
+        "duration": 800,
+        "syllable": "way!"
+      }
+    ]
+  }
+]
