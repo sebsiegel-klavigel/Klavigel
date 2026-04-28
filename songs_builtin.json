@@ -1,5 +1,183 @@
 [
   {
+    "id": "haenschen_klein",
+    "title": "Hänschen Klein",
+    "emoji": "🐣",
+    "difficulty": "easy",
+    "startOctave": 4,
+    "endOctave": 4,
+    "notes": [
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Häns-"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "chen"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "klein,"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "ging"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "al-"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "lein,"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "in"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "die"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "wei-"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "te"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Welt"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "hin-"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "ein."
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Stock"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "und"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Hut"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "steht"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "ihm"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "gut,"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "ist"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "so"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "wohl-"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "ge-"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "mut."
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Ju-"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "chei-"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "sa!"
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "🎵"
+      }
+    ]
+  },
+  {
     "id": "alle_entchen",
     "title": "Alle meine Entchen",
     "emoji": "🦆",
