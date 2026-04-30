@@ -2898,182 +2898,182 @@
     "endOctave": 5,
     "notes": [
       {
-        "note": "G",
+        "note": "C",
         "octave": 4,
         "duration": 400,
         "syllable": "O"
       },
       {
-        "note": "C",
-        "octave": 5,
+        "note": "F",
+        "octave": 4,
         "duration": 600,
         "syllable": "Tan-"
-      },
-      {
-        "note": "C",
-        "octave": 5,
-        "duration": 200,
-        "syllable": "nen-"
-      },
-      {
-        "note": "C",
-        "octave": 5,
-        "duration": 800,
-        "syllable": "baum,"
-      },
-      {
-        "note": "D",
-        "octave": 5,
-        "duration": 400,
-        "syllable": "o"
-      },
-      {
-        "note": "E",
-        "octave": 5,
-        "duration": 400,
-        "syllable": "Tan-"
-      },
-      {
-        "note": "D",
-        "octave": 5,
-        "duration": 400,
-        "syllable": "nen-"
-      },
-      {
-        "note": "C",
-        "octave": 5,
-        "duration": 400,
-        "syllable": "baum,"
-      },
-      {
-        "note": "E",
-        "octave": 5,
-        "duration": 600,
-        "syllable": "wie"
-      },
-      {
-        "note": "D",
-        "octave": 5,
-        "duration": 200,
-        "syllable": "treu"
-      },
-      {
-        "note": "D",
-        "octave": 5,
-        "duration": 800,
-        "syllable": "sind"
       },
       {
         "note": "F",
-        "octave": 5,
+        "octave": 4,
+        "duration": 200,
+        "syllable": "nen-"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "baum,"
+      },
+      {
+        "note": "G",
+        "octave": 4,
         "duration": 400,
-        "syllable": "dei-"
+        "syllable": "o"
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
+        "syllable": "Tan-"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "nen-"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "baum,"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "wie"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "treu"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "sind"
+      },
+      {
+        "note": "A#",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "dei-"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
         "syllable": "ne"
       },
       {
-        "note": "H",
+        "note": "G",
         "octave": 4,
         "duration": 400,
         "syllable": "Blät-"
       },
       {
-        "note": "C",
-        "octave": 5,
+        "note": "F",
+        "octave": 4,
         "duration": 400,
         "syllable": "ter!"
       },
       {
-        "note": "D",
+        "note": "C",
         "octave": 5,
-        "duration": 600,
+        "duration": 400,
         "syllable": "Du"
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 200,
+        "duration": 400,
         "syllable": "grünst"
       },
       {
-        "note": "C",
-        "octave": 5,
-        "duration": 800,
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
         "syllable": "nicht"
       },
       {
-        "note": "G",
-        "octave": 4,
+        "note": "D",
+        "octave": 5,
         "duration": 400,
         "syllable": "nur"
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 600,
+        "duration": 400,
         "syllable": "zur"
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 200,
+        "duration": 400,
         "syllable": "Som-"
       },
       {
-        "note": "C",
-        "octave": 5,
-        "duration": 800,
+        "note": "A#",
+        "octave": 4,
+        "duration": 400,
         "syllable": "mer-"
       },
       {
-        "note": "D",
-        "octave": 5,
+        "note": "A#",
+        "octave": 4,
         "duration": 400,
         "syllable": "zeit,"
       },
       {
-        "note": "E",
-        "octave": 5,
+        "note": "A#",
+        "octave": 4,
         "duration": 400,
         "syllable": "nein"
       },
       {
-        "note": "D",
-        "octave": 5,
+        "note": "A#",
+        "octave": 4,
         "duration": 400,
         "syllable": "auch"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "im"
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
-        "syllable": "im"
-      },
-      {
-        "note": "E",
-        "octave": 5,
-        "duration": 600,
         "syllable": "Win-"
       },
       {
-        "note": "D",
-        "octave": 5,
-        "duration": 200,
+        "note": "A#",
+        "octave": 4,
+        "duration": 400,
         "syllable": "ter,"
       },
       {
-        "note": "D",
-        "octave": 5,
-        "duration": 800,
+        "note": "A#",
+        "octave": 4,
+        "duration": 400,
         "syllable": "wenn"
       },
       {
-        "note": "F",
-        "octave": 5,
+        "note": "A",
+        "octave": 4,
         "duration": 400,
         "syllable": "es"
       },
@@ -3084,22 +3084,94 @@
         "syllable": "schneit."
       },
       {
-        "note": "H",
+        "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "🎵"
+        "syllable": "O"
       },
       {
-        "note": "C",
-        "octave": 5,
+        "note": "F",
+        "octave": 4,
+        "duration": 600,
+        "syllable": "Tan-"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "nen-"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 800,
+        "syllable": "baum,"
+      },
+      {
+        "note": "G",
+        "octave": 4,
         "duration": 400,
-        "syllable": "🎵"
+        "syllable": "o"
       },
       {
-        "note": "C",
-        "octave": 5,
-        "duration": 1200,
-        "syllable": "🎵"
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Tan-"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "nen-"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "baum,"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "wie"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "treu"
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "sind"
+      },
+      {
+        "note": "A#",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "dei-"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "ne"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Blät-"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "ter!"
       }
     ]
   },
@@ -3842,370 +3914,6 @@
     ]
   },
   {
-    "id": "i_wanna_be_like_you",
-    "title": "I Wanna Be Like You (Dschungelbuch)",
-    "emoji": "🐒",
-    "difficulty": "medium",
-    "startOctave": 4,
-    "endOctave": 5,
-    "notes": [
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "Now"
-      },
-      {
-        "note": "A",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "the"
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "king"
-      },
-      {
-        "note": "E",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "of"
-      },
-      {
-        "note": "C",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "the"
-      },
-      {
-        "note": "D",
-        "octave": 4,
-        "duration": 600,
-        "syllable": "swin-"
-      },
-      {
-        "note": "C",
-        "octave": 4,
-        "duration": 600,
-        "syllable": "gers,"
-      },
-      {
-        "note": "E",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "oh,"
-      },
-      {
-        "note": "E",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "the"
-      },
-      {
-        "note": "F",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "jun-"
-      },
-      {
-        "note": "E",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "gle"
-      },
-      {
-        "note": "C",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "V-"
-      },
-      {
-        "note": "D",
-        "octave": 4,
-        "duration": 600,
-        "syllable": "I-"
-      },
-      {
-        "note": "C",
-        "octave": 4,
-        "duration": 800,
-        "syllable": "P!"
-      },
-      {
-        "note": "A",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "reached"
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "the"
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "top"
-      },
-      {
-        "note": "E",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "and"
-      },
-      {
-        "note": "E",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "had"
-      },
-      {
-        "note": "D",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "to"
-      },
-      {
-        "note": "C",
-        "octave": 4,
-        "duration": 600,
-        "syllable": "stop"
-      },
-      {
-        "note": "E",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "and"
-      },
-      {
-        "note": "D",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "both-"
-      },
-      {
-        "note": "E",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "er-"
-      },
-      {
-        "note": "C",
-        "octave": 4,
-        "duration": 800,
-        "syllable": "ing"
-      },
-      {
-        "note": "G",
-        "octave": 3,
-        "duration": 800,
-        "syllable": "me!"
-      },
-      {
-        "note": "C",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "I"
-      },
-      {
-        "note": "E",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "wan-"
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "na"
-      },
-      {
-        "note": "A",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "be"
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "like"
-      },
-      {
-        "note": "E",
-        "octave": 4,
-        "duration": 600,
-        "syllable": "you,"
-      },
-      {
-        "note": "C",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "I"
-      },
-      {
-        "note": "E",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "wan-"
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "na"
-      },
-      {
-        "note": "A",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "walk"
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "like"
-      },
-      {
-        "note": "E",
-        "octave": 4,
-        "duration": 600,
-        "syllable": "you,"
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "talk"
-      },
-      {
-        "note": "A",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "like"
-      },
-      {
-        "note": "C",
-        "octave": 5,
-        "duration": 300,
-        "syllable": "you,"
-      },
-      {
-        "note": "A",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "too!"
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 800,
-        "syllable": "🎵"
-      },
-      {
-        "note": "F",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "see"
-      },
-      {
-        "note": "A",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "true,"
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 800,
-        "syllable": "🎵"
-      },
-      {
-        "note": "E",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "some-"
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "one"
-      },
-      {
-        "note": "A",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "like"
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "me"
-      },
-      {
-        "note": "E",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "can"
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "learn"
-      },
-      {
-        "note": "A",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "to"
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 600,
-        "syllable": "be"
-      },
-      {
-        "note": "E",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "like"
-      },
-      {
-        "note": "F",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "some-"
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "one"
-      },
-      {
-        "note": "A",
-        "octave": 4,
-        "duration": 300,
-        "syllable": "like"
-      },
-      {
-        "note": "C",
-        "octave": 5,
-        "duration": 800,
-        "syllable": "you!"
-      }
-    ]
-  },
-  {
     "id": "tatzen_patrouille",
     "title": "Tatzen Patrouille",
     "emoji": "🐾",
@@ -4222,13 +3930,13 @@
       {
         "note": "A",
         "octave": 4,
-        "duration": 400,
+        "duration": 250,
         "syllable": "pa-"
       },
       {
         "note": "G",
         "octave": 4,
-        "duration": 800,
+        "duration": 950,
         "syllable": "trol"
       },
       {
@@ -4240,59 +3948,59 @@
       {
         "note": "A",
         "octave": 4,
-        "duration": 400,
+        "duration": 250,
         "syllable": "pa-"
       },
       {
         "note": "G",
         "octave": 4,
-        "duration": 800,
+        "duration": 550,
         "syllable": "trol"
       },
       {
-        "note": "H",
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "we'll"
+      },
+      {
+        "note": "E",
         "octave": 4,
         "duration": 400,
         "syllable": "be"
       },
       {
-        "note": "C",
-        "octave": 5,
+        "note": "G",
+        "octave": 4,
         "duration": 400,
         "syllable": "there"
       },
       {
-        "note": "D",
-        "octave": 5,
+        "note": "G",
+        "octave": 4,
         "duration": 400,
         "syllable": "on"
       },
       {
         "note": "E",
-        "octave": 5,
+        "octave": 4,
         "duration": 400,
         "syllable": "the"
       },
       {
-        "note": "D",
-        "octave": 5,
-        "duration": 800,
+        "note": "H",
+        "octave": 4,
+        "duration": 400,
         "syllable": "dou-"
       },
       {
-        "note": "D",
-        "octave": 5,
-        "duration": 400,
+        "note": "A",
+        "octave": 4,
+        "duration": 800,
         "syllable": "ble"
       },
       {
-        "note": "D",
-        "octave": 5,
-        "duration": 400,
-        "syllable": "🎵"
-      },
-      {
-        "note": "H",
+        "note": "G",
         "octave": 4,
         "duration": 400,
         "syllable": "when-"
@@ -4304,13 +4012,19 @@
         "syllable": "ev-"
       },
       {
-        "note": "G",
+        "note": "H",
         "octave": 4,
         "duration": 400,
         "syllable": "er"
       },
       {
-        "note": "F#",
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "there's"
+      },
+      {
+        "note": "E",
         "octave": 4,
         "duration": 400,
         "syllable": "a"
@@ -4322,58 +4036,46 @@
         "syllable": "prob-"
       },
       {
-        "note": "A",
+        "note": "E",
         "octave": 4,
-        "duration": 400,
+        "duration": 800,
         "syllable": "lem,"
       },
       {
-        "note": "H",
-        "octave": 4,
-        "duration": 800,
-        "syllable": "🎵"
-      },
-      {
-        "note": "G",
+        "note": "E",
         "octave": 4,
         "duration": 400,
         "syllable": "a-"
       },
       {
-        "note": "A",
+        "note": "G",
         "octave": 4,
         "duration": 400,
         "syllable": "round"
       },
       {
-        "note": "H",
+        "note": "E",
         "octave": 4,
         "duration": 400,
         "syllable": "Ad-"
       },
       {
-        "note": "C",
-        "octave": 5,
+        "note": "G",
+        "octave": 4,
         "duration": 400,
         "syllable": "ven-"
       },
       {
-        "note": "D",
-        "octave": 5,
+        "note": "E",
+        "octave": 4,
         "duration": 400,
         "syllable": "ture"
       },
       {
-        "note": "G",
+        "note": "A",
         "octave": 4,
-        "duration": 800,
+        "duration": 1600,
         "syllable": "Bay."
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 800,
-        "syllable": "🎵"
       },
       {
         "note": "H",
@@ -4400,7 +4102,7 @@
         "syllable": "his"
       },
       {
-        "note": "F#",
+        "note": "G",
         "octave": 4,
         "duration": 400,
         "syllable": "team"
@@ -4408,133 +4110,139 @@
       {
         "note": "G",
         "octave": 4,
-        "duration": 200,
+        "duration": 400,
         "syllable": "of"
       },
       {
-        "note": "A",
+        "note": "G",
         "octave": 4,
-        "duration": 200,
+        "duration": 600,
         "syllable": "pups"
       },
       {
-        "note": "H",
+        "note": "G",
         "octave": 4,
-        "duration": 400,
+        "duration": 200,
         "syllable": "will"
       },
       {
-        "note": "C",
-        "octave": 5,
+        "note": "E",
+        "octave": 4,
         "duration": 400,
         "syllable": "come"
       },
       {
-        "note": "D",
-        "octave": 5,
+        "note": "G",
+        "octave": 4,
         "duration": 400,
         "syllable": "and"
       },
       {
-        "note": "E",
-        "octave": 5,
+        "note": "G",
+        "octave": 4,
         "duration": 400,
         "syllable": "save"
       },
       {
-        "note": "D",
-        "octave": 5,
+        "note": "E",
+        "octave": 4,
         "duration": 400,
         "syllable": "the"
       },
       {
         "note": "G",
         "octave": 4,
-        "duration": 800,
+        "duration": 1600,
         "syllable": "day!"
       },
       {
-        "note": "D",
-        "octave": 5,
-        "duration": 600,
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
         "syllable": "Mar-"
       },
       {
-        "note": "H",
+        "note": "A",
         "octave": 4,
-        "duration": 600,
+        "duration": 400,
         "syllable": "shall,"
       },
       {
-        "note": "G",
+        "note": "A",
         "octave": 4,
         "duration": 300,
         "syllable": "Rub-"
       },
       {
-        "note": "G",
+        "note": "A",
         "octave": 4,
         "duration": 300,
         "syllable": "ble,"
       },
       {
-        "note": "G",
+        "note": "A",
         "octave": 4,
         "duration": 300,
         "syllable": "Chase,"
       },
       {
-        "note": "G",
+        "note": "A",
         "octave": 4,
         "duration": 300,
         "syllable": "Rock-"
       },
       {
-        "note": "G",
+        "note": "A",
         "octave": 4,
         "duration": 300,
         "syllable": "y,"
       },
       {
-        "note": "G",
+        "note": "A",
         "octave": 4,
         "duration": 300,
         "syllable": "Zu-"
       },
       {
-        "note": "G",
+        "note": "A",
         "octave": 4,
         "duration": 300,
         "syllable": "ma,"
       },
       {
-        "note": "G",
+        "note": "A",
         "octave": 4,
         "duration": 300,
         "syllable": "Skye"
       },
       {
-        "note": "G",
+        "note": "A",
         "octave": 4,
-        "duration": 300,
+        "duration": 400,
         "syllable": "yeah"
       },
       {
-        "note": "H",
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "the're"
+      },
+      {
+        "note": "G",
         "octave": 4,
         "duration": 400,
         "syllable": "on"
       },
       {
-        "note": "C",
-        "octave": 5,
+        "note": "E",
+        "octave": 4,
         "duration": 400,
         "syllable": "their"
       },
       {
-        "note": "D",
-        "octave": 5,
-        "duration": 800,
+        "note": "A",
+        "octave": 4,
+        "duration": 1600,
         "syllable": "way!"
       }
     ]
@@ -4590,12 +4298,7 @@
       {
         "note": "A",
         "octave": 4,
-        "duration": 600
-      },
-      {
-        "note": "A",
-        "octave": 4,
-        "duration": 200
+        "duration": 800
       },
       {
         "note": "C",
@@ -4615,12 +4318,7 @@
       {
         "note": "H",
         "octave": 4,
-        "duration": 600
-      },
-      {
-        "note": "H",
-        "octave": 4,
-        "duration": 200
+        "duration": 700
       },
       {
         "note": "E",
@@ -4640,12 +4338,7 @@
       {
         "note": "C",
         "octave": 5,
-        "duration": 600
-      },
-      {
-        "note": "C",
-        "octave": 5,
-        "duration": 200
+        "duration": 700
       },
       {
         "note": "E",
@@ -5130,7 +4823,7 @@
     ]
   },
   {
-    "id":"a_ram_sam_sam",
+    "id": "a_ram_sam_sam",
     "title": "A Ram Sam Sam",
     "emoji": "🌀",
     "difficulty": "easy",
