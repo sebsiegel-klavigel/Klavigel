@@ -4,9 +4,13 @@
     "title": "Hänschen Klein",
     "emoji": "🐣",
     "difficulty": "easy",
+    "timeSignature": [
+      3,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 4,
-    "notes": [
+    "events": [
       {
         "note": "G",
         "octave": 4,
@@ -182,9 +186,13 @@
     "title": "Alle meine Entchen",
     "emoji": "🦆",
     "difficulty": "easy",
+    "timeSignature": [
+      4,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 4,
-    "notes": [
+    "events": [
       {
         "note": "C",
         "octave": 4,
@@ -348,9 +356,13 @@
     "title": "Kuckuck, Kuckuck",
     "emoji": "🐦",
     "difficulty": "easy",
+    "timeSignature": [
+      3,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 4,
-    "notes": [
+    "events": [
       {
         "note": "A",
         "octave": 4,
@@ -514,9 +526,13 @@
     "title": "Bruder Jakob",
     "emoji": "🔔",
     "difficulty": "easy",
+    "timeSignature": [
+      4,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 4,
-    "notes": [
+    "events": [
       {
         "note": "C",
         "octave": 4,
@@ -716,9 +732,13 @@
     "title": "Fuchs du hast die Gans gestohlen",
     "emoji": "🦊",
     "difficulty": "easy",
+    "timeSignature": [
+      4,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 4,
-    "notes": [
+    "events": [
       {
         "note": "C",
         "octave": 4,
@@ -894,9 +914,13 @@
     "title": "Summ summ summ",
     "emoji": "🐝",
     "difficulty": "easy",
+    "timeSignature": [
+      3,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 4,
-    "notes": [
+    "events": [
       {
         "note": "G",
         "octave": 4,
@@ -1096,9 +1120,13 @@
     "title": "Schlaf Kindlein schlaf",
     "emoji": "🌙",
     "difficulty": "easy",
+    "timeSignature": [
+      3,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 4,
-    "notes": [
+    "events": [
       {
         "note": "E",
         "octave": 4,
@@ -1286,9 +1314,13 @@
     "title": "Backe backe Kuchen",
     "emoji": "🎂",
     "difficulty": "easy",
+    "timeSignature": [
+      4,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 4,
-    "notes": [
+    "events": [
       {
         "note": "G",
         "octave": 4,
@@ -1614,9 +1646,13 @@
     "title": "Happy Birthday",
     "emoji": "🎂",
     "difficulty": "medium",
+    "timeSignature": [
+      3,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 5,
-    "notes": [
+    "events": [
       {
         "note": "C",
         "octave": 4,
@@ -1774,9 +1810,13 @@
     "title": "Morgen kommt der Weihnachtsmann",
     "emoji": "🎅",
     "difficulty": "medium",
+    "timeSignature": [
+      4,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 4,
-    "notes": [
+    "events": [
       {
         "note": "C",
         "octave": 4,
@@ -2024,9 +2064,13 @@
     "title": "Ode an die Freude",
     "emoji": "🎻",
     "difficulty": "medium",
+    "timeSignature": [
+      4,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 4,
-    "notes": [
+    "events": [
       {
         "note": "E",
         "octave": 4,
@@ -2304,9 +2348,13 @@
     "title": "Stille Nacht",
     "emoji": "⭐",
     "difficulty": "medium",
+    "timeSignature": [
+      3,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 5,
-    "notes": [
+    "events": [
       {
         "note": "G",
         "octave": 4,
@@ -2590,9 +2638,13 @@
     "title": "Jingle Bells",
     "emoji": "🔔",
     "difficulty": "medium",
+    "timeSignature": [
+      4,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 5,
-    "notes": [
+    "events": [
       {
         "note": "E",
         "octave": 4,
@@ -2894,9 +2946,13 @@
     "title": "Oh Tannenbaum",
     "emoji": "🎄",
     "difficulty": "medium",
+    "timeSignature": [
+      4,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 5,
-    "notes": [
+    "events": [
       {
         "note": "C",
         "octave": 4,
@@ -3180,9 +3236,13 @@
     "title": "Twinkle Twinkle Little Star",
     "emoji": "⭐",
     "difficulty": "medium",
+    "timeSignature": [
+      4,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 4,
-    "notes": [
+    "events": [
       {
         "note": "C",
         "octave": 4,
@@ -3442,9 +3502,13 @@
     "title": "Mary had a little Lamb",
     "emoji": "🐑",
     "difficulty": "medium",
+    "timeSignature": [
+      4,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 4,
-    "notes": [
+    "events": [
       {
         "note": "E",
         "octave": 4,
@@ -3608,9 +3672,13 @@
     "title": "The Bare Necessities",
     "emoji": "🐻",
     "difficulty": "medium",
+    "timeSignature": [
+      3,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 5,
-    "notes": [
+    "events": [
       {
         "note": "C",
         "octave": 4,
@@ -3918,9 +3986,13 @@
     "title": "Tatzen Patrouille",
     "emoji": "🐾",
     "difficulty": "medium",
+    "timeSignature": [
+      4,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 5,
-    "notes": [
+    "events": [
       {
         "note": "H",
         "octave": 4,
@@ -4252,9 +4324,13 @@
     "title": "Für Elise (vereinfacht)",
     "emoji": "🎹",
     "difficulty": "hard",
+    "timeSignature": [
+      3,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 5,
-    "notes": [
+    "events": [
       {
         "note": "E",
         "octave": 5,
@@ -4392,9 +4468,13 @@
     "title": "Flohwalzer",
     "emoji": "🐾",
     "difficulty": "hard",
+    "timeSignature": [
+      4,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 5,
-    "notes": [
+    "events": [
       {
         "note": "C",
         "octave": 5,
@@ -4582,9 +4662,13 @@
     "title": "Can Can",
     "emoji": "💃",
     "difficulty": "hard",
+    "timeSignature": [
+      4,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 5,
-    "notes": [
+    "events": [
       {
         "note": "G",
         "octave": 4,
@@ -4827,9 +4911,13 @@
     "title": "A Ram Sam Sam",
     "emoji": "🌀",
     "difficulty": "easy",
+    "timeSignature": [
+      4,
+      4
+    ],
     "startOctave": 4,
     "endOctave": 5,
-    "notes": [
+    "events": [
       {
         "note": "C",
         "octave": 4,
