@@ -5159,5 +5159,398 @@
         "syllable": "sam"
       }
     ]
+  },
+  {
+    "id": "ode_freude_bass",
+    "title": "Ode an die Freude (beide Hände)",
+    "emoji": "🎼",
+    "difficulty": "hard",
+    "timeSignature": [
+      4,
+      4
+    ],
+    "startOctave": 4,
+    "endOctave": 4,
+    "events": [
+      {
+        "right": {
+          "note": "E",
+          "octave": 4,
+          "duration": 400,
+          "syllable": "Freu-"
+        },
+        "left": {
+          "note": "C",
+          "octave": 3,
+          "duration": 400,
+          "hand": "left"
+        }
+      },
+      {
+        "right": {
+          "note": "E",
+          "octave": 4,
+          "duration": 400,
+          "syllable": "de,"
+        },
+        "left": {
+          "note": "G",
+          "octave": 3,
+          "duration": 400,
+          "hand": "left"
+        }
+      },
+      {
+        "right": {
+          "note": "F",
+          "octave": 4,
+          "duration": 400,
+          "syllable": "schö-"
+        },
+        "left": {
+          "note": "C",
+          "octave": 3,
+          "duration": 400,
+          "hand": "left"
+        }
+      },
+      {
+        "right": {
+          "note": "G",
+          "octave": 4,
+          "duration": 400,
+          "syllable": "ner"
+        },
+        "left": {
+          "note": "G",
+          "octave": 3,
+          "duration": 400,
+          "hand": "left"
+        }
+      },
+      {
+        "right": {
+          "note": "G",
+          "octave": 4,
+          "duration": 400,
+          "syllable": "Göt-"
+        },
+        "left": {
+          "note": "C",
+          "octave": 3,
+          "duration": 400,
+          "hand": "left"
+        }
+      },
+      {
+        "right": {
+          "note": "F",
+          "octave": 4,
+          "duration": 400,
+          "syllable": "ter-"
+        },
+        "left": {
+          "note": "G",
+          "octave": 3,
+          "duration": 400,
+          "hand": "left"
+        }
+      },
+      {
+        "right": {
+          "note": "E",
+          "octave": 4,
+          "duration": 400,
+          "syllable": "fun-"
+        },
+        "left": {
+          "note": "C",
+          "octave": 3,
+          "duration": 400,
+          "hand": "left"
+        }
+      },
+      {
+        "right": {
+          "note": "D",
+          "octave": 4,
+          "duration": 400,
+          "syllable": "ken,"
+        },
+        "left": {
+          "note": "G",
+          "octave": 3,
+          "duration": 400,
+          "hand": "left"
+        }
+      },
+      {
+        "right": {
+          "note": "C",
+          "octave": 4,
+          "duration": 400,
+          "syllable": "Toch-"
+        },
+        "left": {
+          "note": "C",
+          "octave": 3,
+          "duration": 400,
+          "hand": "left"
+        }
+      },
+      {
+        "right": {
+          "note": "C",
+          "octave": 4,
+          "duration": 400,
+          "syllable": "ter"
+        },
+        "left": {
+          "note": "E",
+          "octave": 3,
+          "duration": 400,
+          "hand": "left"
+        }
+      },
+      {
+        "right": {
+          "note": "D",
+          "octave": 4,
+          "duration": 400,
+          "syllable": "aus"
+        },
+        "left": {
+          "note": "G",
+          "octave": 3,
+          "duration": 400,
+          "hand": "left"
+        }
+      },
+      {
+        "right": {
+          "note": "E",
+          "octave": 4,
+          "duration": 400,
+          "syllable": "E-"
+        },
+        "left": {
+          "note": "G",
+          "octave": 3,
+          "duration": 400,
+          "hand": "left"
+        }
+      },
+      {
+        "right": {
+          "note": "E",
+          "octave": 4,
+          "duration": 600,
+          "syllable": "ly-"
+        },
+        "left": {
+          "note": "C",
+          "octave": 3,
+          "duration": 600,
+          "hand": "left"
+        }
+      },
+      {
+        "right": {
+          "note": "D",
+          "octave": 4,
+          "duration": 200
+        },
+        "left": {
+          "note": "C",
+          "octave": 3,
+          "duration": 200,
+          "hand": "left"
+        }
+      },
+      {
+        "right": {
+          "note": "D",
+          "octave": 4,
+          "duration": 800,
+          "syllable": "si-um!"
+        },
+        "left": {
+          "note": "G",
+          "octave": 3,
+          "duration": 800,
+          "hand": "left"
+        }
+      }
+    ]
+  },
+  {
+    "id": "walzer_linkshand",
+    "title": "Kleiner Walzer",
+    "emoji": "💃",
+    "difficulty": "hard",
+    "timeSignature": [
+      3,
+      4
+    ],
+    "startOctave": 4,
+    "endOctave": 4,
+    "events": [
+      {
+        "right": {
+          "note": "E",
+          "octave": 4,
+          "duration": 400,
+          "syllable": "Tanz-"
+        },
+        "left": {
+          "note": "C",
+          "octave": 3,
+          "duration": 400,
+          "hand": "left"
+        }
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "mit"
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "mir,"
+      },
+      {
+        "right": {
+          "note": "A",
+          "octave": 4,
+          "duration": 400,
+          "syllable": "dreh'"
+        },
+        "left": {
+          "note": "G",
+          "octave": 3,
+          "duration": 400,
+          "hand": "left"
+        }
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "dich"
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "um,"
+      },
+      {
+        "right": {
+          "note": "E",
+          "octave": 4,
+          "duration": 800,
+          "syllable": "Wal-"
+        },
+        "left": {
+          "note": "C",
+          "octave": 3,
+          "duration": 800,
+          "hand": "left"
+        }
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "zer-"
+      },
+      {
+        "right": {
+          "note": "D",
+          "octave": 4,
+          "duration": 800,
+          "syllable": "klang!"
+        },
+        "left": {
+          "note": "G",
+          "octave": 3,
+          "duration": 800,
+          "hand": "left"
+        }
+      },
+      {
+        "rest": true,
+        "duration": 400
+      },
+      {
+        "right": {
+          "note": "C",
+          "octave": 4,
+          "duration": 400,
+          "syllable": "Hör'"
+        },
+        "left": {
+          "note": "C",
+          "octave": 3,
+          "duration": 400,
+          "hand": "left"
+        }
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "die"
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "Mu-"
+      },
+      {
+        "right": {
+          "note": "F",
+          "octave": 4,
+          "duration": 400,
+          "syllable": "sik,"
+        },
+        "left": {
+          "note": "F",
+          "octave": 3,
+          "duration": 400,
+          "hand": "left"
+        }
+      },
+      {
+        "note": "E",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "spür'"
+      },
+      {
+        "note": "D",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "den"
+      },
+      {
+        "right": {
+          "note": "C",
+          "octave": 4,
+          "duration": 1200,
+          "syllable": "Takt!"
+        },
+        "left": {
+          "note": "C",
+          "octave": 3,
+          "duration": 1200,
+          "hand": "left"
+        }
+      }
+    ]
   }
 ]
