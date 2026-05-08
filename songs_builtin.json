@@ -5717,21 +5717,21 @@
         "octave": 4,
         "duration": 400,
         "syllable": "ram",
-        "fingerIndex": 4
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
         "syllable": "sam",
-        "fingerIndex": 4
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
         "syllable": "sam",
-        "fingerIndex": 4
+        "fingerIndex": 3
       },
       {
         "note": "C",
@@ -5745,104 +5745,97 @@
         "octave": 4,
         "duration": 400,
         "syllable": "ram",
-        "fingerIndex": 4
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
         "syllable": "sam",
-        "fingerIndex": 4
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
         "syllable": "sam",
-        "fingerIndex": 4
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 200,
         "syllable": "Gu-",
+        "fingerIndex": 2
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "li",
+        "fingerIndex": 3
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "gu-",
+        "fingerIndex": 4
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "li",
+        "fingerIndex": 4
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "gu-",
+        "fingerIndex": 4
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "li",
+        "fingerIndex": 4
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "gu-",
+        "fingerIndex": 4
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "li",
+        "fingerIndex": 4
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "gu-",
+        "fingerIndex": 0
+      },
+      {
+        "note": "G",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "li",
         "fingerIndex": 1
-      },
-      {
-        "note": "F",
-        "octave": 4,
-        "duration": 200,
-        "syllable": "li",
-        "fingerIndex": 2
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 200,
-        "syllable": "gu-",
-        "fingerIndex": 3
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 200,
-        "syllable": "li",
-        "fingerIndex": 3
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 200,
-        "syllable": "gu-",
-        "fingerIndex": 3
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 200,
-        "syllable": "li",
-        "fingerIndex": 3
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 200,
-        "syllable": "gu-",
-        "fingerIndex": 3
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 200,
-        "syllable": "li",
-        "fingerIndex": 3
-      },
-      {
-        "note": "F",
-        "octave": 4,
-        "duration": 200,
-        "syllable": "gu-",
-        "fingerIndex": 2
-      },
-      {
-        "note": "G",
-        "octave": 4,
-        "duration": 200,
-        "syllable": "li",
-        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
         "syllable": "Ram",
-        "fingerIndex": 4
-      },
-      {
-        "note": "F",
-        "octave": 4,
-        "duration": 400,
-        "syllable": "sam",
         "fingerIndex": 2
       },
       {
@@ -5850,132 +5843,132 @@
         "octave": 4,
         "duration": 400,
         "syllable": "sam",
-        "fingerIndex": 2
+        "fingerIndex": 0
+      },
+      {
+        "note": "F",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "sam",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
         "syllable": "A",
-        "fingerIndex": 5
+        "fingerIndex": 4
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
         "syllable": "ra-",
-        "fingerIndex": 5
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
         "syllable": "fiq,",
-        "fingerIndex": 4
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
         "syllable": "q",
-        "fingerIndex": 5
+        "fingerIndex": 4
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
         "syllable": "ra",
-        "fingerIndex": 5
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
         "syllable": "fiq",
-        "fingerIndex": 4
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
         "syllable": "Gu-",
+        "fingerIndex": 1
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "li",
+        "fingerIndex": 2
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "gu-",
+        "fingerIndex": 3
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "li",
+        "fingerIndex": 3
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "gu-",
+        "fingerIndex": 3
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "li",
+        "fingerIndex": 3
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "gu-",
+        "fingerIndex": 3
+      },
+      {
+        "note": "H",
+        "octave": 4,
+        "duration": 200,
+        "syllable": "li",
         "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 200,
-        "syllable": "li",
-        "fingerIndex": 4
-      },
-      {
-        "note": "H",
-        "octave": 4,
-        "duration": 200,
         "syllable": "gu-",
-        "fingerIndex": 5
+        "fingerIndex": 2
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 200,
         "syllable": "li",
-        "fingerIndex": 5
-      },
-      {
-        "note": "H",
-        "octave": 4,
-        "duration": 200,
-        "syllable": "gu-",
-        "fingerIndex": 5
-      },
-      {
-        "note": "H",
-        "octave": 4,
-        "duration": 200,
-        "syllable": "li",
-        "fingerIndex": 5
-      },
-      {
-        "note": "H",
-        "octave": 4,
-        "duration": 200,
-        "syllable": "gu-",
-        "fingerIndex": 5
-      },
-      {
-        "note": "H",
-        "octave": 4,
-        "duration": 200,
-        "syllable": "li",
-        "fingerIndex": 5
-      },
-      {
-        "note": "A",
-        "octave": 4,
-        "duration": 200,
-        "syllable": "gu-",
-        "fingerIndex": 4
-      },
-      {
-        "note": "H",
-        "octave": 4,
-        "duration": 200,
-        "syllable": "li",
-        "fingerIndex": 5
+        "fingerIndex": 3
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
         "syllable": "Ram",
-        "fingerIndex": 5
-      },
-      {
-        "note": "A",
-        "octave": 4,
-        "duration": 400,
-        "syllable": "sam",
         "fingerIndex": 4
       },
       {
@@ -5983,7 +5976,14 @@
         "octave": 4,
         "duration": 400,
         "syllable": "sam",
-        "fingerIndex": 4
+        "fingerIndex": 2
+      },
+      {
+        "note": "A",
+        "octave": 4,
+        "duration": 400,
+        "syllable": "sam",
+        "fingerIndex": 2
       }
     ]
   },
