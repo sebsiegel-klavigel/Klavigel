@@ -15,169 +15,197 @@
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Häns-"
+        "syllable": "Häns-",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "chen"
+        "syllable": "chen",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "klein,"
+        "syllable": "klein,",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "ging"
+        "syllable": "ging",
+        "fingerIndex": 3
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "al-"
+        "syllable": "al-",
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 800,
-        "syllable": "lein,"
+        "syllable": "lein,",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "in"
+        "syllable": "in",
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "die"
+        "syllable": "die",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "wei-"
+        "syllable": "wei-",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "te"
+        "syllable": "te",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Welt"
+        "syllable": "Welt",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "hin-"
+        "syllable": "hin-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "ein."
+        "syllable": "ein.",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Stock"
+        "syllable": "Stock",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "und"
+        "syllable": "und",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "Hut"
+        "syllable": "Hut",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "steht"
+        "syllable": "steht",
+        "fingerIndex": 3
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "ihm"
+        "syllable": "ihm",
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 800,
-        "syllable": "gut,"
+        "syllable": "gut,",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "ist"
+        "syllable": "ist",
+        "fingerIndex": 0
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "gar"
+        "syllable": "gar",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "wohl-"
+        "syllable": "wohl-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "ge-"
+        "syllable": "ge-",
+        "fingerIndex": 4
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 800,
-        "syllable": "mut."
+        "syllable": "mut.",
+        "fingerIndex": 0
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Ju-"
+        "syllable": "Ju-",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "chei-"
+        "syllable": "chei-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "sa!"
+        "syllable": "sa!",
+        "fingerIndex": 4
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 800,
-        "syllable": "🎵"
+        "syllable": "🎵",
+        "fingerIndex": 0
       }
     ]
   },
@@ -197,157 +225,183 @@
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "Al-"
+        "syllable": "Al-",
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "le"
+        "syllable": "le",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "mei-"
+        "syllable": "mei-",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "ne"
+        "syllable": "ne",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "Ent-"
+        "syllable": "Ent-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "chen"
+        "syllable": "chen",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "schwim-"
+        "syllable": "schwim-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "men"
+        "syllable": "men",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "auf"
+        "syllable": "auf",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "dem"
+        "syllable": "dem",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "See,"
+        "syllable": "See,",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "schwim-"
+        "syllable": "schwim-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "men"
+        "syllable": "men",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "auf"
+        "syllable": "auf",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "dem"
+        "syllable": "dem",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "See,"
+        "syllable": "See,",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "Köpf-"
+        "syllable": "Köpf-",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "chen"
+        "syllable": "chen",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "ins"
+        "syllable": "ins",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "Was-"
+        "syllable": "Was-",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "ser,"
+        "syllable": "ser,",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Schwänz-"
+        "syllable": "Schwänz-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "chen"
+        "syllable": "chen",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "in"
+        "syllable": "in",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "die"
+        "syllable": "die",
+        "fingerIndex": 4
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 800,
-        "syllable": "Höh."
+        "syllable": "Höh.",
+        "fingerIndex": 0
       }
     ]
   },
@@ -367,157 +421,183 @@
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "Kuk-"
+        "syllable": "Kuk-",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "kuck,"
+        "syllable": "kuck,",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "Kuk-"
+        "syllable": "Kuk-",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "kuck,"
+        "syllable": "kuck,",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "ruft"
+        "syllable": "ruft",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "aus"
+        "syllable": "aus",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "dem"
+        "syllable": "dem",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 800,
-        "syllable": "Wald."
+        "syllable": "Wald.",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Las-"
+        "syllable": "Las-",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "set"
+        "syllable": "set",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "uns"
+        "syllable": "uns",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "sin-"
+        "syllable": "sin-",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "gen,"
+        "syllable": "gen,",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "tan-"
+        "syllable": "tan-",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "zen"
+        "syllable": "zen",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "und"
+        "syllable": "und",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 800,
-        "syllable": "sprin-"
+        "syllable": "sprin-",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "gen!"
+        "syllable": "gen!",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 800,
-        "syllable": "Früh-"
+        "syllable": "Früh-",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "ling"
+        "syllable": "ling",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 800,
-        "syllable": "Früh-"
+        "syllable": "Früh-",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "ling"
+        "syllable": "ling",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "wird"
+        "syllable": "wird",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "es"
+        "syllable": "es",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "nun"
+        "syllable": "nun",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 800,
-        "syllable": "bald!"
+        "syllable": "bald!",
+        "fingerIndex": 1
       }
     ]
   },
@@ -537,193 +617,225 @@
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "Bru-"
+        "syllable": "Bru-",
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "der"
+        "syllable": "der",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Ja-"
+        "syllable": "Ja-",
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "kob,"
+        "syllable": "kob,",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "Bru-"
+        "syllable": "Bru-",
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "der"
+        "syllable": "der",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Ja-"
+        "syllable": "Ja-",
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "kob,"
+        "syllable": "kob,",
+        "fingerIndex": 0
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "schläfst"
+        "syllable": "schläfst",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "du"
+        "syllable": "du",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "noch?"
+        "syllable": "noch?",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "schläfst"
+        "syllable": "schläfst",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "du"
+        "syllable": "du",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "noch?"
+        "syllable": "noch?",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "Hörst"
+        "syllable": "Hörst",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 200,
-        "syllable": "du"
+        "syllable": "du",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "nicht"
+        "syllable": "nicht",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 200,
-        "syllable": "die"
+        "syllable": "die",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Glo-"
+        "syllable": "Glo-",
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "cken?"
+        "syllable": "cken?",
+        "fingerIndex": 0
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "Hörst"
+        "syllable": "Hörst",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 200,
-        "syllable": "du"
+        "syllable": "du",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "nicht"
+        "syllable": "nicht",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 200,
-        "syllable": "die"
+        "syllable": "die",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Glo-"
+        "syllable": "Glo-",
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "cken?"
+        "syllable": "cken?",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "Ding"
+        "syllable": "Ding",
+        "fingerIndex": 0
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "dong"
+        "syllable": "dong",
+        "fingerIndex": 4
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 800,
-        "syllable": "ding!"
+        "syllable": "ding!",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "Ding"
+        "syllable": "Ding",
+        "fingerIndex": 0
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "dong"
+        "syllable": "dong",
+        "fingerIndex": 4
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 800,
-        "syllable": "ding!"
+        "syllable": "ding!",
+        "fingerIndex": 0
       }
     ]
   },
@@ -743,169 +855,197 @@
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "Fuchs,"
+        "syllable": "Fuchs,",
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "du"
+        "syllable": "du",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "hast"
+        "syllable": "hast",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "die"
+        "syllable": "die",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Gans"
+        "syllable": "Gans",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "ge-"
+        "syllable": "ge-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "stoh-"
+        "syllable": "stoh-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "len,"
+        "syllable": "len,",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "gib"
+        "syllable": "gib",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "sie"
+        "syllable": "sie",
+        "fingerIndex": 3
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
-        "syllable": "wie-"
+        "syllable": "wie-",
+        "fingerIndex": 0
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "der"
+        "syllable": "der",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "her!"
+        "syllable": "her!",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Sonst"
+        "syllable": "Sonst",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "wird"
+        "syllable": "wird",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "dich"
+        "syllable": "dich",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "der"
+        "syllable": "der",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "Jä-"
+        "syllable": "Jä-",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "ger"
+        "syllable": "ger",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "ho-"
+        "syllable": "ho-",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "len"
+        "syllable": "len",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "mit"
+        "syllable": "mit",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "dem"
+        "syllable": "dem",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Schieß-"
+        "syllable": "Schieß-",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "ge-"
+        "syllable": "ge-",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "wehr!"
+        "syllable": "wehr!",
+        "fingerIndex": 0
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "🎵"
+        "syllable": "🎵",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "🎵"
+        "syllable": "🎵",
+        "fingerIndex": 4
       }
     ]
   },
@@ -925,193 +1065,225 @@
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Summ,"
+        "syllable": "Summ,",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "summ,"
+        "syllable": "summ,",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "summ,"
+        "syllable": "summ,",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "Bien-"
+        "syllable": "Bien-",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "chen"
+        "syllable": "chen",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "summ"
+        "syllable": "summ",
+        "fingerIndex": 3
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "her-"
+        "syllable": "her-",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 1600,
-        "syllable": "um!"
+        "syllable": "um!",
+        "fingerIndex": 0
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Ei,"
+        "syllable": "Ei,",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "wir"
+        "syllable": "wir",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "tun"
+        "syllable": "tun",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "dir"
+        "syllable": "dir",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "nichts"
+        "syllable": "nichts",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "zu"
+        "syllable": "zu",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "lei"
+        "syllable": "lei",
+        "fingerIndex": 3
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "de"
+        "syllable": "de",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "flieg"
+        "syllable": "flieg",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "nur"
+        "syllable": "nur",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "aus"
+        "syllable": "aus",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "in"
+        "syllable": "in",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "Wald"
+        "syllable": "Wald",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "und"
+        "syllable": "und",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "Hei"
+        "syllable": "Hei",
+        "fingerIndex": 3
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "de"
+        "syllable": "de",
+        "fingerIndex": 1
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "summ!"
+        "syllable": "summ!",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "Summ,"
+        "syllable": "Summ,",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "summ,"
+        "syllable": "summ,",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "Bien-"
+        "syllable": "Bien-",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "chen"
+        "syllable": "chen",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "summ"
+        "syllable": "summ",
+        "fingerIndex": 3
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "he-"
+        "syllable": "he-",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 1600,
-        "syllable": "rum,"
+        "syllable": "rum,",
+        "fingerIndex": 0
       }
     ]
   },
@@ -1131,181 +1303,211 @@
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "Schlaf,"
+        "syllable": "Schlaf,",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "Kind-"
+        "syllable": "Kind-",
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "lein,"
+        "syllable": "lein,",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 1600,
-        "syllable": "schlaf,"
+        "syllable": "schlaf,",
+        "fingerIndex": 0
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "der"
+        "syllable": "der",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Va-"
+        "syllable": "Va-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "ter"
+        "syllable": "ter",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "hüt"
+        "syllable": "hüt",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "die"
+        "syllable": "die",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "Schaf,"
+        "syllable": "Schaf,",
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "die"
+        "syllable": "die",
+        "fingerIndex": 0
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "Mut-"
+        "syllable": "Mut-",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "ter"
+        "syllable": "ter",
+        "fingerIndex": 3
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "schüt-"
+        "syllable": "schüt-",
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "telts"
+        "syllable": "telts",
+        "fingerIndex": 1
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Bäu-"
+        "syllable": "Bäu-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "me-"
+        "syllable": "me-",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "lein,"
+        "syllable": "lein,",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "da"
+        "syllable": "da",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "fällt"
+        "syllable": "fällt",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "her-"
+        "syllable": "her-",
+        "fingerIndex": 3
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "ab"
+        "syllable": "ab",
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "ein"
+        "syllable": "ein",
+        "fingerIndex": 1
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Träum-"
+        "syllable": "Träum-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "e-"
+        "syllable": "e-",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "lein,"
+        "syllable": "lein,",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 800,
-        "syllable": "schlaf,"
+        "syllable": "schlaf,",
+        "fingerIndex": 3
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "Kind-"
+        "syllable": "Kind-",
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "lein,"
+        "syllable": "lein,",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 1600,
-        "syllable": "schlaf."
+        "syllable": "schlaf.",
+        "fingerIndex": 0
       }
     ]
   },
@@ -1325,319 +1527,372 @@
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Bak-"
+        "syllable": "Bak-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "ke,"
+        "syllable": "ke,",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "bak-"
+        "syllable": "bak-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "ke,"
+        "syllable": "ke,",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "Ku-"
+        "syllable": "Ku-",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "chen!"
+        "syllable": "chen!",
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "Der"
+        "syllable": "Der",
+        "fingerIndex": 0
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Bä-"
+        "syllable": "Bä-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "cker"
+        "syllable": "cker",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "hat"
+        "syllable": "hat",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "ge-"
+        "syllable": "ge-",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "ru-"
+        "syllable": "ru-",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "fen."
+        "syllable": "fen.",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Wer"
+        "syllable": "Wer",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "will"
+        "syllable": "will",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "gu-"
+        "syllable": "gu-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "ten"
+        "syllable": "ten",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Ku-"
+        "syllable": "Ku-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "chen"
+        "syllable": "chen",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "ha-"
+        "syllable": "ha-",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "ben,"
+        "syllable": "ben,",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "der"
+        "syllable": "der",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "muss"
+        "syllable": "muss",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "ha-"
+        "syllable": "ha-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "ben"
+        "syllable": "ben",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "sie-"
+        "syllable": "sie-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "ben"
+        "syllable": "ben",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Sa-"
+        "syllable": "Sa-",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "chen:"
+        "syllable": "chen:",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "Ei-"
+        "syllable": "Ei-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "er"
+        "syllable": "er",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "und"
+        "syllable": "und",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "Schmalz,"
+        "syllable": "Schmalz,",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "But-"
+        "syllable": "But-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "ter"
+        "syllable": "ter",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "und"
+        "syllable": "und",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "Salz,"
+        "syllable": "Salz,",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Milch"
+        "syllable": "Milch",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "und"
+        "syllable": "und",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "Mehl,"
+        "syllable": "Mehl,",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Sa"
+        "syllable": "Sa",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "-fran"
+        "syllable": "-fran",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "macht"
+        "syllable": "macht",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "den"
+        "syllable": "den",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Kuch-"
+        "syllable": "Kuch-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "en"
+        "syllable": "en",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "gehl"
+        "syllable": "gehl",
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 800,
-        "syllable": "Schieb,"
+        "syllable": "Schieb,",
+        "fingerIndex": 0
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "in"
+        "syllable": "in",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "den"
+        "syllable": "den",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "O-"
+        "syllable": "O-",
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "fen"
+        "syllable": "fen",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 800,
-        "syllable": "rein!"
+        "syllable": "rein!",
+        "fingerIndex": 0
       }
     ]
   },
@@ -1657,151 +1912,176 @@
         "note": "C",
         "octave": 4,
         "duration": 200,
-        "syllable": "Hap-"
+        "syllable": "Hap-",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 200,
-        "syllable": "py"
+        "syllable": "py",
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "Birth-"
+        "syllable": "Birth-",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "day"
+        "syllable": "day",
+        "fingerIndex": 0
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "to"
+        "syllable": "to",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "you,"
+        "syllable": "you,",
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 200,
-        "syllable": "Hap-"
+        "syllable": "Hap-",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 200,
-        "syllable": "py"
+        "syllable": "py",
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "Birth-"
+        "syllable": "Birth-",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "day"
+        "syllable": "day",
+        "fingerIndex": 0
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "to"
+        "syllable": "to",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 800,
-        "syllable": "you,"
+        "syllable": "you,",
+        "fingerIndex": 3
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 200,
-        "syllable": "Hap-"
+        "syllable": "Hap-",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 200,
-        "syllable": "py"
+        "syllable": "py",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
-        "syllable": "Birth-"
+        "syllable": "Birth-",
+        "fingerIndex": 0
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "day"
+        "syllable": "day",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "dear"
+        "syllable": "dear",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Pi-"
+        "syllable": "Pi-",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "no,"
+        "syllable": "no,",
+        "fingerIndex": 1
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 200,
-        "syllable": "Hap-"
+        "syllable": "Hap-",
+        "fingerIndex": 2
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 200,
-        "syllable": "py"
+        "syllable": "py",
+        "fingerIndex": 2
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "Birth-"
+        "syllable": "Birth-",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "day"
+        "syllable": "day",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "to"
+        "syllable": "to",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 800,
-        "syllable": "you!"
+        "syllable": "you!",
+        "fingerIndex": 3
       }
     ]
   },
@@ -1821,241 +2101,281 @@
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "Mor-"
+        "syllable": "Mor-",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "gen"
+        "syllable": "gen",
+        "fingerIndex": 0
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "kommt"
+        "syllable": "kommt",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "der"
+        "syllable": "der",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "Weih-"
+        "syllable": "Weih-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "nachts-"
+        "syllable": "nachts-",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "mann,"
+        "syllable": "mann,",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "kommt"
+        "syllable": "kommt",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "mit"
+        "syllable": "mit",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "sei-"
+        "syllable": "sei-",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "nen"
+        "syllable": "nen",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 800,
-        "syllable": "Ga-"
+        "syllable": "Ga-",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 800,
-        "syllable": "ben,"
+        "syllable": "ben,",
+        "fingerIndex": 0
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Äp-"
+        "syllable": "Äp-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "fel,"
+        "syllable": "fel,",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "Nüs-"
+        "syllable": "Nüs-",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "se,"
+        "syllable": "se,",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Man-"
+        "syllable": "Man-",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "del-"
+        "syllable": "del-",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 800,
-        "syllable": "kern,"
+        "syllable": "kern,",
+        "fingerIndex": 1
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "alle"
+        "syllable": "alle",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Kin-"
+        "syllable": "Kin-",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "der"
+        "syllable": "der",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "ha-"
+        "syllable": "ha-",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "ben"
+        "syllable": "ben",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "ihn"
+        "syllable": "ihn",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 800,
-        "syllable": "gern."
+        "syllable": "gern.",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "Mor-"
+        "syllable": "Mor-",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "gen"
+        "syllable": "gen",
+        "fingerIndex": 0
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "kommt"
+        "syllable": "kommt",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "der"
+        "syllable": "der",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "Weih-"
+        "syllable": "Weih-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "nachts-"
+        "syllable": "nachts-",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "mann,"
+        "syllable": "mann,",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "kommt"
+        "syllable": "kommt",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "mit"
+        "syllable": "mit",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "sei-"
+        "syllable": "sei-",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "nen"
+        "syllable": "nen",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 800,
-        "syllable": "Ga-"
+        "syllable": "Ga-",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 800,
-        "syllable": "ben!"
+        "syllable": "ben!",
+        "fingerIndex": 0
       }
     ]
   },
@@ -2075,271 +2395,316 @@
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Freu-"
+        "syllable": "Freu-",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "de,"
+        "syllable": "de,",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "schö-"
+        "syllable": "schö-",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "ner"
+        "syllable": "ner",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Göt-"
+        "syllable": "Göt-",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "ter-"
+        "syllable": "ter-",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "fun-"
+        "syllable": "fun-",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "ken,"
+        "syllable": "ken,",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "Toch-"
+        "syllable": "Toch-",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "ter"
+        "syllable": "ter",
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "aus"
+        "syllable": "aus",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "E-"
+        "syllable": "E-",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 600,
-        "syllable": "ly-"
+        "syllable": "ly-",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 200,
-        "syllable": "si-"
+        "syllable": "si-",
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 800,
-        "syllable": "um!"
+        "syllable": "um!",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Freu-"
+        "syllable": "Freu-",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "de,"
+        "syllable": "de,",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "schö-"
+        "syllable": "schö-",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "ner"
+        "syllable": "ner",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Göt-"
+        "syllable": "Göt-",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "ter-"
+        "syllable": "ter-",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "fun-"
+        "syllable": "fun-",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "ken,"
+        "syllable": "ken,",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "Toch-"
+        "syllable": "Toch-",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "ter"
+        "syllable": "ter",
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "aus"
+        "syllable": "aus",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "E-"
+        "syllable": "E-",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 600,
-        "syllable": "ly-"
+        "syllable": "ly-",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 200,
-        "syllable": "si-"
+        "syllable": "si-",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 800,
-        "syllable": "um!"
+        "syllable": "um!",
+        "fingerIndex": 0
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Wir"
+        "syllable": "Wir",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "be-"
+        "syllable": "be-",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "tre-"
+        "syllable": "tre-",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "ten"
+        "syllable": "ten",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "feu-"
+        "syllable": "feu-",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "er-"
+        "syllable": "er-",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "trun-"
+        "syllable": "trun-",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "ken,"
+        "syllable": "ken,",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "Himm-"
+        "syllable": "Himm-",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "li-"
+        "syllable": "li-",
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "sche,"
+        "syllable": "sche,",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "dein"
+        "syllable": "dein",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "Hei-"
+        "syllable": "Hei-",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "lig-"
+        "syllable": "lig-",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 800,
-        "syllable": "tum!"
+        "syllable": "tum!",
+        "fingerIndex": 0
       }
     ]
   },
@@ -2359,277 +2724,323 @@
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "Stil-"
+        "syllable": "Stil-",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 200,
-        "syllable": "🎵"
+        "syllable": "🎵",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "le"
+        "syllable": "le",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "Nacht,"
+        "syllable": "Nacht,",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "hei-"
+        "syllable": "hei-",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 200,
-        "syllable": "li-"
+        "syllable": "li-",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 200,
-        "syllable": "ge"
+        "syllable": "ge",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Nacht!"
+        "syllable": "Nacht!",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 5,
         "duration": 400,
-        "syllable": "Al-"
+        "syllable": "Al-",
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 5,
         "duration": 400,
-        "syllable": "les"
+        "syllable": "les",
+        "fingerIndex": 1
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 400,
-        "syllable": "schläft,"
+        "syllable": "schläft,",
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
-        "syllable": "ein-"
+        "syllable": "ein-",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
-        "syllable": "sam"
+        "syllable": "sam",
+        "fingerIndex": 0
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "wacht"
+        "syllable": "wacht",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "nur"
+        "syllable": "nur",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "das"
+        "syllable": "das",
+        "fingerIndex": 3
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
-        "syllable": "trau-"
+        "syllable": "trau-",
+        "fingerIndex": 0
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 200,
-        "syllable": "te"
+        "syllable": "te",
+        "fingerIndex": 2
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "hoch-"
+        "syllable": "hoch-",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "hei-"
+        "syllable": "hei-",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 200,
-        "syllable": "li-"
+        "syllable": "li-",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "ge"
+        "syllable": "ge",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 600,
-        "syllable": "Paar!"
+        "syllable": "Paar!",
+        "fingerIndex": 2
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "Hol-"
+        "syllable": "Hol-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "der"
+        "syllable": "der",
+        "fingerIndex": 3
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
-        "syllable": "Kna-"
+        "syllable": "Kna-",
+        "fingerIndex": 0
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 200,
-        "syllable": "be"
+        "syllable": "be",
+        "fingerIndex": 2
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "im"
+        "syllable": "im",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "lok-"
+        "syllable": "lok-",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 200,
-        "syllable": "ki-"
+        "syllable": "ki-",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "gen"
+        "syllable": "gen",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "Haar,"
+        "syllable": "Haar,",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 5,
         "duration": 400,
-        "syllable": "schlaf"
+        "syllable": "schlaf",
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 5,
         "duration": 400,
-        "syllable": "in"
+        "syllable": "in",
+        "fingerIndex": 1
       },
       {
         "note": "F",
         "octave": 5,
         "duration": 800,
-        "syllable": "himm-"
+        "syllable": "himm-",
+        "fingerIndex": 3
       },
       {
         "note": "D",
         "octave": 5,
         "duration": 200,
-        "syllable": "li-"
+        "syllable": "li-",
+        "fingerIndex": 1
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 200,
-        "syllable": "scher"
+        "syllable": "scher",
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
-        "syllable": "Ruh,"
+        "syllable": "Ruh,",
+        "fingerIndex": 0
       },
       {
         "note": "E",
         "octave": 5,
         "duration": 400,
-        "syllable": "🎵"
+        "syllable": "🎵",
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 200,
-        "syllable": "Schlaf"
+        "syllable": "Schlaf",
+        "fingerIndex": 0
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "🎵"
+        "syllable": "🎵",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "in"
+        "syllable": "in",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "himm-"
+        "syllable": "himm-",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 200,
-        "syllable": "li-"
+        "syllable": "li-",
+        "fingerIndex": 3
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 200,
-        "syllable": "scher"
+        "syllable": "scher",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 800,
-        "syllable": "Ruh!"
+        "syllable": "Ruh!",
+        "fingerIndex": 0
       }
     ]
   },
@@ -2649,295 +3060,344 @@
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Jin-"
+        "syllable": "Jin-",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "gle"
+        "syllable": "gle",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "bells,"
+        "syllable": "bells,",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "jin-"
+        "syllable": "jin-",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "gle"
+        "syllable": "gle",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "bells,"
+        "syllable": "bells,",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "jin-"
+        "syllable": "jin-",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "gle"
+        "syllable": "gle",
+        "fingerIndex": 4
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "all"
+        "syllable": "all",
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "the"
+        "syllable": "the",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 1200,
-        "syllable": "way!"
+        "syllable": "way!",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "Oh"
+        "syllable": "Oh",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "what"
+        "syllable": "what",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "fun"
+        "syllable": "fun",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "it"
+        "syllable": "it",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "is"
+        "syllable": "is",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "to"
+        "syllable": "to",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "ride"
+        "syllable": "ride",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "in"
+        "syllable": "in",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "a"
+        "syllable": "a",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "one-"
+        "syllable": "one-",
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "horse"
+        "syllable": "horse",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "o-"
+        "syllable": "o-",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 800,
-        "syllable": "pen"
+        "syllable": "pen",
+        "fingerIndex": 1
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "sleigh!"
+        "syllable": "sleigh!",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Jin-"
+        "syllable": "Jin-",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "gle"
+        "syllable": "gle",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "bells,"
+        "syllable": "bells,",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "jin-"
+        "syllable": "jin-",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "gle"
+        "syllable": "gle",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "bells,"
+        "syllable": "bells,",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "jin-"
+        "syllable": "jin-",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "gle"
+        "syllable": "gle",
+        "fingerIndex": 4
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "all"
+        "syllable": "all",
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "the"
+        "syllable": "the",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 1200,
-        "syllable": "way!"
+        "syllable": "way!",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "Oh"
+        "syllable": "Oh",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "what"
+        "syllable": "what",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "fun"
+        "syllable": "fun",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "it"
+        "syllable": "it",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "is"
+        "syllable": "is",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "to"
+        "syllable": "to",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "ride"
+        "syllable": "ride",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "in"
+        "syllable": "in",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "a"
+        "syllable": "a",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "one-"
+        "syllable": "one-",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "horse"
+        "syllable": "horse",
+        "fingerIndex": 3
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "o-"
+        "syllable": "o-",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 1200,
-        "syllable": "pen sleigh!"
+        "syllable": "pen sleigh!",
+        "fingerIndex": 0
       }
     ]
   },
@@ -2957,277 +3417,323 @@
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "O"
+        "syllable": "O",
+        "fingerIndex": 0
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 600,
-        "syllable": "Tan-"
+        "syllable": "Tan-",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 200,
-        "syllable": "nen-"
+        "syllable": "nen-",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 800,
-        "syllable": "baum,"
+        "syllable": "baum,",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "o"
+        "syllable": "o",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "Tan-"
+        "syllable": "Tan-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "nen-"
+        "syllable": "nen-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "baum,"
+        "syllable": "baum,",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "wie"
+        "syllable": "wie",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "treu"
+        "syllable": "treu",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "sind"
+        "syllable": "sind",
+        "fingerIndex": 3
       },
       {
         "note": "A#",
         "octave": 4,
         "duration": 400,
-        "syllable": "dei-"
+        "syllable": "dei-",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "ne"
+        "syllable": "ne",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Blät-"
+        "syllable": "Blät-",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "ter!"
+        "syllable": "ter!",
+        "fingerIndex": 3
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
-        "syllable": "Du"
+        "syllable": "Du",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
-        "syllable": "grünst"
+        "syllable": "grünst",
+        "fingerIndex": 0
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "nicht"
+        "syllable": "nicht",
+        "fingerIndex": 3
       },
       {
         "note": "D",
         "octave": 5,
         "duration": 400,
-        "syllable": "nur"
+        "syllable": "nur",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
-        "syllable": "zur"
+        "syllable": "zur",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
-        "syllable": "Som-"
+        "syllable": "Som-",
+        "fingerIndex": 0
       },
       {
         "note": "A#",
         "octave": 4,
         "duration": 400,
-        "syllable": "mer-"
+        "syllable": "mer-",
+        "fingerIndex": 3
       },
       {
         "note": "A#",
         "octave": 4,
         "duration": 400,
-        "syllable": "zeit,"
+        "syllable": "zeit,",
+        "fingerIndex": 3
       },
       {
         "note": "A#",
         "octave": 4,
         "duration": 400,
-        "syllable": "nein"
+        "syllable": "nein",
+        "fingerIndex": 3
       },
       {
         "note": "A#",
         "octave": 4,
         "duration": 400,
-        "syllable": "auch"
+        "syllable": "auch",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "im"
+        "syllable": "im",
+        "fingerIndex": 4
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
-        "syllable": "Win-"
+        "syllable": "Win-",
+        "fingerIndex": 0
       },
       {
         "note": "A#",
         "octave": 4,
         "duration": 400,
-        "syllable": "ter,"
+        "syllable": "ter,",
+        "fingerIndex": 3
       },
       {
         "note": "A#",
         "octave": 4,
         "duration": 400,
-        "syllable": "wenn"
+        "syllable": "wenn",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "es"
+        "syllable": "es",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "schneit."
+        "syllable": "schneit.",
+        "fingerIndex": 3
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "O"
+        "syllable": "O",
+        "fingerIndex": 0
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 600,
-        "syllable": "Tan-"
+        "syllable": "Tan-",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 200,
-        "syllable": "nen-"
+        "syllable": "nen-",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 800,
-        "syllable": "baum,"
+        "syllable": "baum,",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "o"
+        "syllable": "o",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "Tan-"
+        "syllable": "Tan-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "nen-"
+        "syllable": "nen-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "baum,"
+        "syllable": "baum,",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "wie"
+        "syllable": "wie",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "treu"
+        "syllable": "treu",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "sind"
+        "syllable": "sind",
+        "fingerIndex": 3
       },
       {
         "note": "A#",
         "octave": 4,
         "duration": 400,
-        "syllable": "dei-"
+        "syllable": "dei-",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "ne"
+        "syllable": "ne",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Blät-"
+        "syllable": "Blät-",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "ter!"
+        "syllable": "ter!",
+        "fingerIndex": 3
       }
     ]
   },
@@ -3247,253 +3753,295 @@
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "Twin-"
+        "syllable": "Twin-",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "kle,"
+        "syllable": "kle,",
+        "fingerIndex": 0
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "twin-"
+        "syllable": "twin-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "kle,"
+        "syllable": "kle,",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "lit-"
+        "syllable": "lit-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "tle"
+        "syllable": "tle",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "star,"
+        "syllable": "star,",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "how"
+        "syllable": "how",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "I"
+        "syllable": "I",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "won-"
+        "syllable": "won-",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "der"
+        "syllable": "der",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "what"
+        "syllable": "what",
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "you"
+        "syllable": "you",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 800,
-        "syllable": "are."
+        "syllable": "are.",
+        "fingerIndex": 0
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "Up"
+        "syllable": "Up",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "a-"
+        "syllable": "a-",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "bove"
+        "syllable": "bove",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "the"
+        "syllable": "the",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "world"
+        "syllable": "world",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "so"
+        "syllable": "so",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 800,
-        "syllable": "high,"
+        "syllable": "high,",
+        "fingerIndex": 1
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "like"
+        "syllable": "like",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "a"
+        "syllable": "a",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "dia-"
+        "syllable": "dia-",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "mond"
+        "syllable": "mond",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "in"
+        "syllable": "in",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "the"
+        "syllable": "the",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 800,
-        "syllable": "sky."
+        "syllable": "sky.",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "Twin-"
+        "syllable": "Twin-",
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "kle,"
+        "syllable": "kle,",
+        "fingerIndex": 0
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "twin-"
+        "syllable": "twin-",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "kle,"
+        "syllable": "kle,",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "lit-"
+        "syllable": "lit-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "tle"
+        "syllable": "tle",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "star,"
+        "syllable": "star,",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "how"
+        "syllable": "how",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "I"
+        "syllable": "I",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "won-"
+        "syllable": "won-",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "der"
+        "syllable": "der",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "what"
+        "syllable": "what",
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "you"
+        "syllable": "you",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 800,
-        "syllable": "are!"
+        "syllable": "are!",
+        "fingerIndex": 0
       }
     ]
   },
@@ -3513,157 +4061,183 @@
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Ma-"
+        "syllable": "Ma-",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "ry"
+        "syllable": "ry",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "had"
+        "syllable": "had",
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "a"
+        "syllable": "a",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "lit-"
+        "syllable": "lit-",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "tle"
+        "syllable": "tle",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "lamb,"
+        "syllable": "lamb,",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "lit-"
+        "syllable": "lit-",
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "tle"
+        "syllable": "tle",
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 800,
-        "syllable": "lamb,"
+        "syllable": "lamb,",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "lit-"
+        "syllable": "lit-",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "tle"
+        "syllable": "tle",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 800,
-        "syllable": "lamb."
+        "syllable": "lamb.",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Ma-"
+        "syllable": "Ma-",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "ry"
+        "syllable": "ry",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "had"
+        "syllable": "had",
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "a"
+        "syllable": "a",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "lit-"
+        "syllable": "lit-",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "tle"
+        "syllable": "tle",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "lamb,"
+        "syllable": "lamb,",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "its"
+        "syllable": "its",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "fleece"
+        "syllable": "fleece",
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "was"
+        "syllable": "was",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "white"
+        "syllable": "white",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "as"
+        "syllable": "as",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 800,
-        "syllable": "snow!"
+        "syllable": "snow!",
+        "fingerIndex": 0
       }
     ]
   },
@@ -3683,301 +4257,351 @@
         "note": "C",
         "octave": 4,
         "duration": 300,
-        "syllable": "Look"
+        "syllable": "Look",
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 300,
-        "syllable": "for"
+        "syllable": "for",
+        "fingerIndex": 1
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 300,
-        "syllable": "the"
+        "syllable": "the",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 300,
-        "syllable": "bare"
+        "syllable": "bare",
+        "fingerIndex": 3
       },
       {
         "note": "G#",
         "octave": 4,
         "duration": 300,
-        "syllable": "ne-"
+        "syllable": "ne-",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 300,
-        "syllable": "ces-"
+        "syllable": "ces-",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 300,
-        "syllable": "si-"
+        "syllable": "si-",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 600,
-        "syllable": "ties,"
+        "syllable": "ties,",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 300,
-        "syllable": "the"
+        "syllable": "the",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 300,
-        "syllable": "sim-"
+        "syllable": "sim-",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 300,
-        "syllable": "ple"
+        "syllable": "ple",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 300,
-        "syllable": "bare"
+        "syllable": "bare",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 300,
-        "syllable": "ne-"
+        "syllable": "ne-",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 300,
-        "syllable": "ces-"
+        "syllable": "ces-",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 300,
-        "syllable": "si-"
+        "syllable": "si-",
+        "fingerIndex": 3
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 600,
-        "syllable": "ties."
+        "syllable": "ties.",
+        "fingerIndex": 1
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 300,
-        "syllable": "get"
+        "syllable": "get",
+        "fingerIndex": 3
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 300,
-        "syllable": "a-"
+        "syllable": "a-",
+        "fingerIndex": 0
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 300,
-        "syllable": "bout"
+        "syllable": "bout",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 300,
-        "syllable": "your"
+        "syllable": "your",
+        "fingerIndex": 3
       },
       {
         "note": "D",
         "octave": 5,
         "duration": 300,
-        "syllable": "wor-"
+        "syllable": "wor-",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 300,
-        "syllable": "ries"
+        "syllable": "ries",
+        "fingerIndex": 0
       },
       {
         "note": "A#",
         "octave": 4,
         "duration": 300,
-        "syllable": "and"
+        "syllable": "and",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 300,
-        "syllable": "your"
+        "syllable": "your",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 600,
-        "syllable": "strife."
+        "syllable": "strife.",
+        "fingerIndex": 4
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 300,
-        "syllable": "I"
+        "syllable": "I",
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 5,
         "duration": 300,
-        "syllable": "mean"
+        "syllable": "mean",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 300,
-        "syllable": "the"
+        "syllable": "the",
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 5,
         "duration": 300,
-        "syllable": "bare"
+        "syllable": "bare",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 300,
-        "syllable": "ne-"
+        "syllable": "ne-",
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 5,
         "duration": 300,
-        "syllable": "ces-"
+        "syllable": "ces-",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 300,
-        "syllable": "si-"
+        "syllable": "si-",
+        "fingerIndex": 0
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 600,
-        "syllable": "ties,"
+        "syllable": "ties,",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 300,
-        "syllable": "or"
+        "syllable": "or",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 300,
-        "syllable": "Moth-"
+        "syllable": "Moth-",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 300,
-        "syllable": "er"
+        "syllable": "er",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 300,
-        "syllable": "Na-"
+        "syllable": "Na-",
+        "fingerIndex": 4
       },
       {
         "note": "D",
         "octave": 5,
         "duration": 300,
-        "syllable": "rec-"
+        "syllable": "rec-",
+        "fingerIndex": 1
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 300,
-        "syllable": "i-"
+        "syllable": "i-",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 600,
-        "syllable": "pes"
+        "syllable": "pes",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 300,
-        "syllable": "that"
+        "syllable": "that",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 300,
-        "syllable": "bring"
+        "syllable": "bring",
+        "fingerIndex": 3
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 300,
-        "syllable": "the"
+        "syllable": "the",
+        "fingerIndex": 0
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 300,
-        "syllable": "bare"
+        "syllable": "bare",
+        "fingerIndex": 3
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 300,
-        "syllable": "ne-"
+        "syllable": "ne-",
+        "fingerIndex": 0
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 300,
-        "syllable": "ces-"
+        "syllable": "ces-",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 300,
-        "syllable": "si-"
+        "syllable": "si-",
+        "fingerIndex": 3
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 300,
-        "syllable": "ties"
+        "syllable": "ties",
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 300,
-        "syllable": "of"
+        "syllable": "of",
+        "fingerIndex": 0
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 300,
-        "syllable": "life"
+        "syllable": "life",
+        "fingerIndex": 3
       }
     ]
   },
@@ -3997,325 +4621,379 @@
         "note": "H",
         "octave": 4,
         "duration": 400,
-        "syllable": "PAW"
+        "syllable": "PAW",
+        "fingerIndex": 2
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 250,
-        "syllable": "pa-"
+        "syllable": "pa-",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 950,
-        "syllable": "trol"
+        "syllable": "trol",
+        "fingerIndex": 4
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 400,
-        "syllable": "PAW"
+        "syllable": "PAW",
+        "fingerIndex": 2
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 250,
-        "syllable": "pa-"
+        "syllable": "pa-",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 550,
-        "syllable": "trol"
+        "syllable": "trol",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "we'll"
+        "syllable": "we'll",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "be"
+        "syllable": "be",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "there"
+        "syllable": "there",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "on"
+        "syllable": "on",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "the"
+        "syllable": "the",
+        "fingerIndex": 2
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 400,
-        "syllable": "dou-"
+        "syllable": "dou-",
+        "fingerIndex": 2
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 800,
-        "syllable": "ble"
+        "syllable": "ble",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "when-"
+        "syllable": "when-",
+        "fingerIndex": 4
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 400,
-        "syllable": "ev-"
+        "syllable": "ev-",
+        "fingerIndex": 2
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 400,
-        "syllable": "er"
+        "syllable": "er",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "there's"
+        "syllable": "there's",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "a"
+        "syllable": "a",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "prob-"
+        "syllable": "prob-",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 800,
-        "syllable": "lem,"
+        "syllable": "lem,",
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "a-"
+        "syllable": "a-",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "round"
+        "syllable": "round",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Ad-"
+        "syllable": "Ad-",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "ven-"
+        "syllable": "ven-",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "ture"
+        "syllable": "ture",
+        "fingerIndex": 2
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 1600,
-        "syllable": "Bay."
+        "syllable": "Bay.",
+        "fingerIndex": 3
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 400,
-        "syllable": "Ry-"
+        "syllable": "Ry-",
+        "fingerIndex": 2
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 400,
-        "syllable": "der"
+        "syllable": "der",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "and"
+        "syllable": "and",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "his"
+        "syllable": "his",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "team"
+        "syllable": "team",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "of"
+        "syllable": "of",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 600,
-        "syllable": "pups"
+        "syllable": "pups",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "will"
+        "syllable": "will",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "come"
+        "syllable": "come",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "and"
+        "syllable": "and",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "save"
+        "syllable": "save",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "the"
+        "syllable": "the",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 1600,
-        "syllable": "day!"
+        "syllable": "day!",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "Mar-"
+        "syllable": "Mar-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "shall,"
+        "syllable": "shall,",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 300,
-        "syllable": "Rub-"
+        "syllable": "Rub-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 300,
-        "syllable": "ble,"
+        "syllable": "ble,",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 300,
-        "syllable": "Chase,"
+        "syllable": "Chase,",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 300,
-        "syllable": "Rock-"
+        "syllable": "Rock-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 300,
-        "syllable": "y,"
+        "syllable": "y,",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 300,
-        "syllable": "Zu-"
+        "syllable": "Zu-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 300,
-        "syllable": "ma,"
+        "syllable": "ma,",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 300,
-        "syllable": "Skye"
+        "syllable": "Skye",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "yeah"
+        "syllable": "yeah",
+        "fingerIndex": 3
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "the're"
+        "syllable": "the're",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "on"
+        "syllable": "on",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "their"
+        "syllable": "their",
+        "fingerIndex": 2
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 1600,
-        "syllable": "way!"
+        "syllable": "way!",
+        "fingerIndex": 3
       }
     ]
   },
@@ -4334,132 +5012,158 @@
       {
         "note": "E",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 2
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 0
       },
       {
         "note": "A",
         "octave": 4,
-        "duration": 800
+        "duration": 800,
+        "fingerIndex": 3
       },
       {
         "note": "C",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 0
       },
       {
         "note": "E",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 2
       },
       {
         "note": "A",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 3
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 700
+        "duration": 700,
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 4
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 700
+        "duration": 700,
+        "fingerIndex": 0
       },
       {
         "note": "E",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 2
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 0
       },
       {
         "note": "A",
         "octave": 4,
-        "duration": 800
+        "duration": 800,
+        "fingerIndex": 3
       }
     ]
   },
@@ -4478,182 +5182,218 @@
       {
         "note": "C",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 0
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 0
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 0
       },
       {
         "note": "G",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 4
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 600
-      },
-      {
-        "note": "C",
-        "octave": 4,
-        "duration": 200
+        "duration": 600,
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
-        "duration": 200
+        "duration": 200,
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
-        "duration": 200
+        "duration": 200,
+        "fingerIndex": 0
+      },
+      {
+        "note": "C",
+        "octave": 4,
+        "duration": 200,
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 0
       },
       {
         "note": "D",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 1
       },
       {
         "note": "A",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 3
       },
       {
         "note": "D",
         "octave": 5,
-        "duration": 600
+        "duration": 600,
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 4,
-        "duration": 200
+        "duration": 200,
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 4,
-        "duration": 200
+        "duration": 200,
+        "fingerIndex": 1
       },
       {
         "note": "D",
         "octave": 4,
-        "duration": 200
+        "duration": 200,
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 0
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 0
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 0
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 600
+        "duration": 600,
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
-        "duration": 200
+        "duration": 200,
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
-        "duration": 200
+        "duration": 200,
+        "fingerIndex": 0
       },
       {
         "note": "C",
         "octave": 4,
-        "duration": 200
+        "duration": 200,
+        "fingerIndex": 0
       }
     ]
   },
@@ -4672,237 +5412,284 @@
       {
         "note": "G",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
-        "duration": 100
+        "duration": 100,
+        "fingerIndex": 3
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 4
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
-        "duration": 200
+        "duration": 200,
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
-        "duration": 200
+        "duration": 200,
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
-        "duration": 100
+        "duration": 100,
+        "fingerIndex": 3
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 4
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 2
       },
       {
         "note": "E",
         "octave": 4,
-        "duration": 800
+        "duration": 800,
+        "fingerIndex": 2
       },
       {
         "note": "A",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 3
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 100
+        "duration": 100,
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 0
       },
       {
         "note": "A",
         "octave": 4,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 3
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 0
       },
       {
         "note": "F",
         "octave": 4,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
-        "duration": 200
+        "duration": 200,
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
-        "duration": 200
+        "duration": 200,
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 3
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 100
+        "duration": 100,
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 0
       },
       {
         "note": "A",
         "octave": 4,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 3
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 0
       },
       {
         "note": "F",
         "octave": 4,
-        "duration": 800
+        "duration": 800,
+        "fingerIndex": 3
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 0
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 100
+        "duration": 100,
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 0
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 100
+        "duration": 100,
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 0
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 100
+        "duration": 100,
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 300
+        "duration": 300,
+        "fingerIndex": 0
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 100
+        "duration": 100,
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 0
       },
       {
         "note": "E",
         "octave": 5,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 5,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 1
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 0
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 3
       },
       {
         "note": "H",
         "octave": 4,
-        "duration": 400
+        "duration": 400,
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
-        "duration": 800
+        "duration": 800,
+        "fingerIndex": 0
       }
     ]
   },
@@ -4922,241 +5709,281 @@
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "a"
+        "syllable": "a",
+        "fingerIndex": 0
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "ram"
+        "syllable": "ram",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "sam"
+        "syllable": "sam",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "sam"
+        "syllable": "sam",
+        "fingerIndex": 4
       },
       {
         "note": "C",
         "octave": 4,
         "duration": 400,
-        "syllable": "a"
+        "syllable": "a",
+        "fingerIndex": 0
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "ram"
+        "syllable": "ram",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "sam"
+        "syllable": "sam",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "sam"
+        "syllable": "sam",
+        "fingerIndex": 4
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 200,
-        "syllable": "Gu-"
+        "syllable": "Gu-",
+        "fingerIndex": 1
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 200,
-        "syllable": "li"
+        "syllable": "li",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "gu-"
+        "syllable": "gu-",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "li"
+        "syllable": "li",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "gu-"
+        "syllable": "gu-",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "li"
+        "syllable": "li",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "gu-"
+        "syllable": "gu-",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "li"
+        "syllable": "li",
+        "fingerIndex": 3
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 200,
-        "syllable": "gu-"
+        "syllable": "gu-",
+        "fingerIndex": 2
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "li"
+        "syllable": "li",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "Ram"
+        "syllable": "Ram",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "sam"
+        "syllable": "sam",
+        "fingerIndex": 2
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "sam"
+        "syllable": "sam",
+        "fingerIndex": 2
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
-        "syllable": "A"
+        "syllable": "A",
+        "fingerIndex": 5
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
-        "syllable": "ra-"
+        "syllable": "ra-",
+        "fingerIndex": 5
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "fiq,"
+        "syllable": "fiq,",
+        "fingerIndex": 4
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
-        "syllable": "q"
+        "syllable": "q",
+        "fingerIndex": 5
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
-        "syllable": "ra"
+        "syllable": "ra",
+        "fingerIndex": 5
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "fiq"
+        "syllable": "fiq",
+        "fingerIndex": 4
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 200,
-        "syllable": "Gu-"
+        "syllable": "Gu-",
+        "fingerIndex": 3
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 200,
-        "syllable": "li"
+        "syllable": "li",
+        "fingerIndex": 4
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 200,
-        "syllable": "gu-"
+        "syllable": "gu-",
+        "fingerIndex": 5
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 200,
-        "syllable": "li"
+        "syllable": "li",
+        "fingerIndex": 5
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 200,
-        "syllable": "gu-"
+        "syllable": "gu-",
+        "fingerIndex": 5
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 200,
-        "syllable": "li"
+        "syllable": "li",
+        "fingerIndex": 5
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 200,
-        "syllable": "gu-"
+        "syllable": "gu-",
+        "fingerIndex": 5
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 200,
-        "syllable": "li"
+        "syllable": "li",
+        "fingerIndex": 5
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 200,
-        "syllable": "gu-"
+        "syllable": "gu-",
+        "fingerIndex": 4
       },
       {
         "note": "H",
         "octave": 4,
         "duration": 200,
-        "syllable": "li"
+        "syllable": "li",
+        "fingerIndex": 5
       },
       {
         "note": "C",
         "octave": 5,
         "duration": 400,
-        "syllable": "Ram"
+        "syllable": "Ram",
+        "fingerIndex": 5
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "sam"
+        "syllable": "sam",
+        "fingerIndex": 4
       },
       {
         "note": "A",
         "octave": 4,
         "duration": 400,
-        "syllable": "sam"
+        "syllable": "sam",
+        "fingerIndex": 4
       }
     ]
   },
@@ -5177,13 +6004,15 @@
           "note": "E",
           "octave": 4,
           "duration": 400,
-          "syllable": "Freu-"
+          "syllable": "Freu-",
+          "fingerIndex": 2
         },
         "left": {
           "note": "C",
           "octave": 3,
           "duration": 400,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 4
         }
       },
       {
@@ -5191,13 +6020,15 @@
           "note": "E",
           "octave": 4,
           "duration": 400,
-          "syllable": "de,"
+          "syllable": "de,",
+          "fingerIndex": 2
         },
         "left": {
           "note": "G",
           "octave": 3,
           "duration": 400,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 0
         }
       },
       {
@@ -5205,13 +6036,15 @@
           "note": "F",
           "octave": 4,
           "duration": 400,
-          "syllable": "schö-"
+          "syllable": "schö-",
+          "fingerIndex": 3
         },
         "left": {
           "note": "C",
           "octave": 3,
           "duration": 400,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 4
         }
       },
       {
@@ -5219,13 +6052,15 @@
           "note": "G",
           "octave": 4,
           "duration": 400,
-          "syllable": "ner"
+          "syllable": "ner",
+          "fingerIndex": 4
         },
         "left": {
           "note": "G",
           "octave": 3,
           "duration": 400,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 0
         }
       },
       {
@@ -5233,13 +6068,15 @@
           "note": "G",
           "octave": 4,
           "duration": 400,
-          "syllable": "Göt-"
+          "syllable": "Göt-",
+          "fingerIndex": 4
         },
         "left": {
           "note": "C",
           "octave": 3,
           "duration": 400,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 4
         }
       },
       {
@@ -5247,13 +6084,15 @@
           "note": "F",
           "octave": 4,
           "duration": 400,
-          "syllable": "ter-"
+          "syllable": "ter-",
+          "fingerIndex": 3
         },
         "left": {
           "note": "G",
           "octave": 3,
           "duration": 400,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 0
         }
       },
       {
@@ -5261,13 +6100,15 @@
           "note": "E",
           "octave": 4,
           "duration": 400,
-          "syllable": "fun-"
+          "syllable": "fun-",
+          "fingerIndex": 2
         },
         "left": {
           "note": "C",
           "octave": 3,
           "duration": 400,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 4
         }
       },
       {
@@ -5275,13 +6116,15 @@
           "note": "D",
           "octave": 4,
           "duration": 400,
-          "syllable": "ken,"
+          "syllable": "ken,",
+          "fingerIndex": 1
         },
         "left": {
           "note": "G",
           "octave": 3,
           "duration": 400,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 0
         }
       },
       {
@@ -5289,13 +6132,15 @@
           "note": "C",
           "octave": 4,
           "duration": 400,
-          "syllable": "Toch-"
+          "syllable": "Toch-",
+          "fingerIndex": 0
         },
         "left": {
           "note": "C",
           "octave": 3,
           "duration": 400,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 4
         }
       },
       {
@@ -5303,13 +6148,15 @@
           "note": "C",
           "octave": 4,
           "duration": 400,
-          "syllable": "ter"
+          "syllable": "ter",
+          "fingerIndex": 0
         },
         "left": {
           "note": "E",
           "octave": 3,
           "duration": 400,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 2
         }
       },
       {
@@ -5317,13 +6164,15 @@
           "note": "D",
           "octave": 4,
           "duration": 400,
-          "syllable": "aus"
+          "syllable": "aus",
+          "fingerIndex": 1
         },
         "left": {
           "note": "G",
           "octave": 3,
           "duration": 400,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 0
         }
       },
       {
@@ -5331,13 +6180,15 @@
           "note": "E",
           "octave": 4,
           "duration": 400,
-          "syllable": "E-"
+          "syllable": "E-",
+          "fingerIndex": 2
         },
         "left": {
           "note": "G",
           "octave": 3,
           "duration": 400,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 0
         }
       },
       {
@@ -5345,26 +6196,30 @@
           "note": "E",
           "octave": 4,
           "duration": 600,
-          "syllable": "ly-"
+          "syllable": "ly-",
+          "fingerIndex": 2
         },
         "left": {
           "note": "C",
           "octave": 3,
           "duration": 600,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 4
         }
       },
       {
         "right": {
           "note": "D",
           "octave": 4,
-          "duration": 200
+          "duration": 200,
+          "fingerIndex": 1
         },
         "left": {
           "note": "C",
           "octave": 3,
           "duration": 200,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 4
         }
       },
       {
@@ -5372,13 +6227,15 @@
           "note": "D",
           "octave": 4,
           "duration": 800,
-          "syllable": "si-um!"
+          "syllable": "si-um!",
+          "fingerIndex": 1
         },
         "left": {
           "note": "G",
           "octave": 3,
           "duration": 800,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 0
         }
       }
     ]
@@ -5400,85 +6257,98 @@
           "note": "E",
           "octave": 4,
           "duration": 400,
-          "syllable": "Tanz-"
+          "syllable": "Tanz-",
+          "fingerIndex": 2
         },
         "left": {
           "note": "C",
           "octave": 3,
           "duration": 400,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 4
         }
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "mit"
+        "syllable": "mit",
+        "fingerIndex": 3
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "mir,"
+        "syllable": "mir,",
+        "fingerIndex": 4
       },
       {
         "right": {
           "note": "A",
           "octave": 4,
           "duration": 400,
-          "syllable": "dreh'"
+          "syllable": "dreh'",
+          "fingerIndex": 3
         },
         "left": {
           "note": "G",
           "octave": 3,
           "duration": 400,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 0
         }
       },
       {
         "note": "G",
         "octave": 4,
         "duration": 400,
-        "syllable": "dich"
+        "syllable": "dich",
+        "fingerIndex": 4
       },
       {
         "note": "F",
         "octave": 4,
         "duration": 400,
-        "syllable": "um,"
+        "syllable": "um,",
+        "fingerIndex": 3
       },
       {
         "right": {
           "note": "E",
           "octave": 4,
           "duration": 800,
-          "syllable": "Wal-"
+          "syllable": "Wal-",
+          "fingerIndex": 2
         },
         "left": {
           "note": "C",
           "octave": 3,
           "duration": 800,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 4
         }
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "zer-"
+        "syllable": "zer-",
+        "fingerIndex": 2
       },
       {
         "right": {
           "note": "D",
           "octave": 4,
           "duration": 800,
-          "syllable": "klang!"
+          "syllable": "klang!",
+          "fingerIndex": 1
         },
         "left": {
           "note": "G",
           "octave": 3,
           "duration": 800,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 0
         }
       },
       {
@@ -5490,65 +6360,75 @@
           "note": "C",
           "octave": 4,
           "duration": 400,
-          "syllable": "Hör'"
+          "syllable": "Hör'",
+          "fingerIndex": 0
         },
         "left": {
           "note": "C",
           "octave": 3,
           "duration": 400,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 4
         }
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "die"
+        "syllable": "die",
+        "fingerIndex": 1
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "Mu-"
+        "syllable": "Mu-",
+        "fingerIndex": 2
       },
       {
         "right": {
           "note": "F",
           "octave": 4,
           "duration": 400,
-          "syllable": "sik,"
+          "syllable": "sik,",
+          "fingerIndex": 3
         },
         "left": {
           "note": "F",
           "octave": 3,
           "duration": 400,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 1
         }
       },
       {
         "note": "E",
         "octave": 4,
         "duration": 400,
-        "syllable": "spür'"
+        "syllable": "spür'",
+        "fingerIndex": 2
       },
       {
         "note": "D",
         "octave": 4,
         "duration": 400,
-        "syllable": "den"
+        "syllable": "den",
+        "fingerIndex": 1
       },
       {
         "right": {
           "note": "C",
           "octave": 4,
           "duration": 1200,
-          "syllable": "Takt!"
+          "syllable": "Takt!",
+          "fingerIndex": 0
         },
         "left": {
           "note": "C",
           "octave": 3,
           "duration": 1200,
-          "hand": "left"
+          "hand": "left",
+          "fingerIndex": 4
         }
       }
     ]
